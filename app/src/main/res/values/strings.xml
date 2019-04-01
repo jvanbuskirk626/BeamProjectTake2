@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BeamProject</string>
+    <string name="userHolder">userName</string>
+    <string name="userSet">set</string>
+    <string name="SendKey">Send Key</string>
+    <string name="sendMsg">Send Msg</string>
+    <string name="toWho">To who</string>
+    <string name="chat">Empty!</string>
+    <string name="messageHolder">Message:</string>
+
+
+
+</resources>
